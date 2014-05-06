@@ -6,7 +6,7 @@
 
 > block comment
 
-* bold *
+*bold* > no space between the * and the word
 *bold*
 
 **italic**
