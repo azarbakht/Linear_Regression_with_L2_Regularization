@@ -35,8 +35,8 @@ __bold__
 3. item 3
 
 
-[URL name](URL itself)
-[azarbakht.info](http://www.azarbakht.info/)
+[URL name e.g. azarbakht.info](http://www.azarbakht.info/)
+
 
 
 Solutions to: 
