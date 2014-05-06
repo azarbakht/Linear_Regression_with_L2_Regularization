@@ -17,7 +17,9 @@ _italic_
 
 __bold__
 
-**bold _italic_bold**
+**bold _italic_ bold**
+> should be space between the _ or * and the previous/next word
+
 
 
 Solutions to: 
