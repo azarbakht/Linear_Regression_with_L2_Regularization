@@ -23,11 +23,13 @@ __bold__
 * unordered list 1 item 1
 * item 2
 * item 3
-- item 4
+* item 4
 
 - Unordered list 2 item 1
 - item 2
 - item 3
+
+> cannot use * and - in a single unordered list. stick with one in a list.
 
 
 Solutions to: 
