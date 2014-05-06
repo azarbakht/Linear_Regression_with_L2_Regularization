@@ -8,11 +8,14 @@
 
 
 **bold** 
-> no space between the * and the word
-*italic*
-_italic_
-__bold__
 
+> no space between the * and the word
+
+*italic*
+
+_italic_
+
+__bold__
 
 **bold _italic_bold**
 
