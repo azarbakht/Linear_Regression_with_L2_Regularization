@@ -6,10 +6,12 @@
 
 > block comment
 
-*bold* > no space between the * and the word
-*bold*
+*bold* 
+
+> no space between the * and the word
 
 **italic**
+_what_
 
 **italic _bold_ italic**
 
