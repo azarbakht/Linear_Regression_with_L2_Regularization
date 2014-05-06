@@ -6,6 +6,12 @@
 
 > block comment
 
+* bold *
+*bold*
+
+**italic**
+
+**italic _bold_ italic**
 
 
 Solutions to: 
