@@ -6,14 +6,15 @@
 
 > block comment
 
-*bold* 
 
+**bold** 
 > no space between the * and the word
+*italic*
+_italic_
+__bold__
 
-**italic**
-_what_
 
-**italic _bold_ italic**
+**bold _italic_bold**
 
 
 Solutions to: 
