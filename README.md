@@ -37,6 +37,18 @@ __bold__
 
 [URL name e.g. azarbakht.info](http://www.azarbakht.info/)
 
+- unordered list item 1
+- item 2
+- item 3
+  - item 3.1.
+  - item 3.2.
+  - item 3.3.
+- item 4
+- item 5
+  - item 5.1.
+  - item 5.2.
+- item 6
+- item 7
 
 
 Solutions to: 
